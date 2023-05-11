@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+p{
+    text-align: center;
+    color: rgb(78, 70, 70);
+}
+.link{
+    color: rgb(82, 77, 77)
+}
